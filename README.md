@@ -8,4 +8,4 @@ A Simple Software for Student Management System that can perform the following o
 1. Add details of the students
 2. Print all records of the students
 3. Search for a particular student in the list
-4. Delete the details of particular student
+4. Delete the details of a particular student
