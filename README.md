@@ -9,3 +9,9 @@ A Simple Software for Student Management System that can perform the following o
 2. Print all records of the students
 3. Search for a particular student in the list
 4. Delete the details of a particular student
+
+# Steps to run the project
+1. Clone the github repository.
+2. If using an IDE run the main.py file to run the project.
+3. While using the terminal, while being in the direcotry of the project file, run the command: python3 main.py
+4. You can try all the functions implemented simply by providing the required details.
