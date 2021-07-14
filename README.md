@@ -5,10 +5,10 @@ L&amp;T Technology Services Mini-Project (STEPIN_2021)
 ![image](https://user-images.githubusercontent.com/65846052/114353231-68bde680-9b8a-11eb-9c79-d00e7f4b3a9f.png)
 
 A Simple Software for Student Management System that can perform the following operations:
-1. Add details of the students
-2. Print all records of the students
-3. Search for a particular student in the list
-4. Delete the details of a particular student
+1. Add details of students.
+2. Print all records of students.
+3. Update detials of students.
+4. Delete details of a particular student.
 
 # Steps to run the project
 1. Clone the github repository.
